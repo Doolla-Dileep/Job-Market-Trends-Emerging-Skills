@@ -18,6 +18,10 @@ The project aims to design interactive dashboards that analyze job market trends
 
 •	Company Rating Benchmark.
 
+Dashboard Interaction <a href="https://github.com/Doolla-Dileep/Job-Market-Trends-Emerging-Skills/blob/main/Screenshot%20of%20Dashboard(1).png">View Dashboard</a>
+
+Dashboard Interaction <a href="https://github.com/Doolla-Dileep/Job-Market-Trends-Emerging-Skills/blob/main/Screenshot%20of%20Dashboard(2).png">View Dashboard</a>
+
 
 ## Process
 •	The project begins with data collection from job market sources, followed by data cleaning to ensure accuracy and consistency.
