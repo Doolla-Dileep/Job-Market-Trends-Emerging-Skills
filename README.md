@@ -1,2 +1,6 @@
 ## Project Objective
 The project aims to design interactive dashboards that analyze job market trends and emerging skills. It provides insights into demand levels, salary benchmarks, industry distribution, and remote work preferences. By visualizing skills, roles, and locations, the dashboards help recruiters, professionals, and learners identify high‑value opportunities and align career strategies with market needs.
+
+
+## Dataset Used
+<a href="https://github.com/Doolla-Dileep/Job-Market-Trends-Emerging-Skills/blob/main/Power_BI.pbix">Dataset</a>
