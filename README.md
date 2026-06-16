@@ -1,2 +1,2 @@
-# Job-Market-Trends-Emerging-Skills
-I developed a comprehensive project in Power BI, creating multiple dashboards to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+## Project Objective
+The project aims to design interactive dashboards that analyze job market trends and emerging skills. It provides insights into demand levels, salary benchmarks, industry distribution, and remote work preferences. By visualizing skills, roles, and locations, the dashboards help recruiters, professionals, and learners identify high‑value opportunities and align career strategies with market needs.
