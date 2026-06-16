@@ -28,3 +28,8 @@ The project aims to design interactive dashboards that analyze job market trends
 
 •	Finally, insights generation highlights emerging skills, industry hiring trends, and career opportunities.
 
+
+## Dashboard
+<img width="601" height="338" alt="Screenshot of Dashboard(2)" src="https://github.com/user-attachments/assets/0c61d513-7902-4a82-bcf9-a1e01223178e" />
+
+
