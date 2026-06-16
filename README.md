@@ -37,3 +37,15 @@ Dashboard Interaction <a href="https://github.com/Doolla-Dileep/Job-Market-Trend
 <img width="599" height="343" alt="Screenshot of Dashboard(1)" src="https://github.com/user-attachments/assets/f149c4ae-5bd7-49fc-ab4f-80a570a9e1d9" />
 
 
+## Key Insights 
+•	Python, SQL, and Excel are the most in-demand skills.
+•	Data Scientist and AI-related roles offer the highest salaries
+•	 Bangalore and Hyderabad lead in job opportunities
+•	Industry Hiring Trends
+•	Experience-Level Demand
+
+
+## Conclusion
+The Job Market Trends & Emerging Skills Dashboard, built using Microsoft Power BI Desktop, provides a comprehensive view of current hiring patterns, skill demand, and salary trends across industries and locations.The analysis reveals that the job market is strongly driven by data and technology-related roles, with skills like Python, SQL, and cloud technologies being highly (in demand). Cities such as Bangalore and Hyderabad continue to dominate job opportunities, reflecting their position as major tech hubs.Overall, the dashboard enables data-driven decision-making by identifying key trends, helping job seekers focus on the right skills and guiding organizations in talent acquisition strategies.
+
+
