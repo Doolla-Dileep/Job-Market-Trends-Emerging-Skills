@@ -6,17 +6,19 @@ The project aims to design interactive dashboards that analyze job market trends
 <a href="https://github.com/Doolla-Dileep/Job-Market-Trends-Emerging-Skills/blob/main/Power_BI.pbix">Dataset</a>
 
 ## Questions[KPIs]
-Total Job Postings.
-Average Salary.
-Top Skills in Demand.
-Emerging Skills Growth %.
-Top Hiring Industries.
-Regional Job Distribution.
-Company Rating Benchmark.
+•	Total Job Postings.
+•	Average Salary.
+•	Top Skills in Demand.
+•	Emerging Skills Growth %.
+•	Top Hiring Industries.
+•	Regional Job Distribution.
+•	Company Rating Benchmark
+
 
 ## Process
-The project begins with data collection from job market sources, followed by data cleaning to ensure accuracy and consistency.
-Next, data modeling establishes relationships between skills, roles, industries, and locations.
-Defined KPIs such as job count, salary benchmarks, demand levels, and remote work ratio guide the analysis.
-Interactive dashboard design presents insights through charts, maps, and filters.
-Finally, insights generation highlights emerging skills, industry hiring trends, and career opportunities.
+•	The project begins with data collection from job market sources, followed by data cleaning to ensure accuracy and consistency.
+•	Next, data modelling establishes relationships between skills, roles, industries, and locations.
+•	Defined KPIs such as job count, salary benchmarks, demand levels, and remote work ratio guide the analysis.
+•	Interactive dashboard design presents insights through charts, maps, and filters.
+•	Finally, insights generation highlights emerging skills, industry hiring trends, and career opportunities.
+
