@@ -7,12 +7,18 @@ The project aims to design interactive dashboards that analyze job market trends
 
 ## Questions[KPIs]
 •	Total Job Postings.
+
 •	Average Salary.
+
 •	Top Skills in Demand.
+
 •	Emerging Skills Growth %.
+
 •	Top Hiring Industries.
+
 •	Regional Job Distribution.
-•	Company Rating Benchmark
+
+•	Company Rating Benchmark.
 
 
 ## Process
