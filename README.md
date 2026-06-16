@@ -30,5 +30,6 @@ The project aims to design interactive dashboards that analyze job market trends
 
 
 ## Dashboard
-<img width="601" height="338" alt="Screenshot of Dashboard(1)" src="https://github.com/user-attachments/assets/4df69c1c-9615-47db-bcea-4fbe84c5aa90" />
+<img width="599" height="343" alt="Screenshot of Dashboard(1)" src="https://github.com/user-attachments/assets/f149c4ae-5bd7-49fc-ab4f-80a570a9e1d9" />
+
 
